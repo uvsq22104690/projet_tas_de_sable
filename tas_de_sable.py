@@ -18,6 +18,7 @@ grain_g: 0
 grain_h: 0
 grain_i: 0
 
+gfgg
 
 import random as rd
 import tkinter as tk
