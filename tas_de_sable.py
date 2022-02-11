@@ -1,7 +1,7 @@
 #########################################
 # groupe MI 4
-# Vincent
-# Marjorie
+# Vincent BEAUVALLET
+# Marjorie ADAM
 # Levi
 # Kévin
 # https://github.com/uvsq-info/l1-python
