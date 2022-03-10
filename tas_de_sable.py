@@ -2,7 +2,7 @@
 # groupe MI 4
 # Vincent BEAUVALLET
 # Marjorie ADAM
-# Levi
+# Levi HOIMIAN
 # Kévin JOSEPH
 # https://github.com/uvsq-info/l1-python
 #########################################
